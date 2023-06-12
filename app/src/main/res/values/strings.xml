@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP_ SQLITE-ROOM_Recycler-View</string>
+    <string name="saisir_un_text">Saisir un text</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="reset">Reset</string>
+    <string name="enter_text">Enter text</string>
+    <string name="mettre_jour">Mettre à jour</string>
+</resources>
